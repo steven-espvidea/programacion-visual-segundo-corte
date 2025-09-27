@@ -1,0 +1,31 @@
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe.config
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.pdb
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.AssemblyReference.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Form1.resources
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Properties.Resources.resources
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.GenerateResource.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.CoreCompileInputs.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.pdb
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe.config
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe.config
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.pdb
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.AssemblyReference.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Form1.resources
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Properties.Resources.resources
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.GenerateResource.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\Programación Visual I\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.pdb
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe.config
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.pdb
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.AssemblyReference.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Form1.resources
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Properties.Resources.resources
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.GenerateResource.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe
+C:\Users\50585\OneDrive - BicentenariaUNANLeon212Años\PROGRAMACIÓN VISUAL II CORTE\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.pdb
