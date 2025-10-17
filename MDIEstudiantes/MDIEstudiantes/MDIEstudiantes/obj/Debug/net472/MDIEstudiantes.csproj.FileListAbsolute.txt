@@ -1,0 +1,10 @@
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\bin\Debug\net472\MDIEstudiantes.exe.config
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\bin\Debug\net472\MDIEstudiantes.exe
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\bin\Debug\net472\MDIEstudiantes.pdb
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.csproj.AssemblyReference.cache
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.AssemblyInfoInputs.cache
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.AssemblyInfo.cs
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.exe
+C:\Users\50585\Downloads\MDIEstudiantes_project_fixed\MDIEstudiantes\MDIEstudiantes\obj\Debug\net472\MDIEstudiantes.pdb

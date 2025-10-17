@@ -3,16 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual ii corte\\semana 4\\visordeimagenes\\visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|solutionrelative:visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VisorDeImagenes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual ii corte\\semana 4\\visordeimagenes\\visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|solutionrelative:visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|solutionrelative:visordeimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\visordeimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|solutionrelative:visordeimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC6351D1-A35A-4EB8-9D06-6D5119E3CD76}|VisorDeImagenes\\VisorDeImagenes.csproj|c:\\users\\50585\\onedrive - bicentenariaunanleon212a\u00F1os\\programaci\u00F3n visual ii corte\\semana 4\\visordeimagenes\\visordeimagenes\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +28,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "VisorDeImagenes",
+              "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\VisorDeImagenes.csproj",
+              "RelativeDocumentMoniker": "VisorDeImagenes\\VisorDeImagenes.csproj",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\VisorDeImagenes.csproj",
+              "RelativeToolTip": "VisorDeImagenes\\VisorDeImagenes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-27T03:44:20.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "VisorDeImagenes\\Form1.Designer.cs",
@@ -34,17 +52,18 @@
               "RelativeToolTip": "VisorDeImagenes\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T16:19:32.517Z"
+              "WhenOpened": "2025-09-10T16:19:32.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs",
               "RelativeDocumentMoniker": "VisorDeImagenes\\Form1.cs",
               "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs",
               "RelativeToolTip": "VisorDeImagenes\\Form1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAawC8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAiwCUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T16:19:26.834Z",
               "EditorCaption": ""
@@ -55,10 +74,11 @@
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs",
               "RelativeDocumentMoniker": "VisorDeImagenes\\Form1.cs",
-              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\Programaci\u00F3n Visual I\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\Programaci\u00F3n Visual I\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\50585\\OneDrive - BicentenariaUNANLeon212A\u00F1os\\PROGRAMACI\u00D3N VISUAL II CORTE\\Semana 4\\VisorDeImagenes\\VisorDeImagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VisorDeImagenes\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T15:56:40.332Z"
+              "WhenOpened": "2025-09-10T15:56:40.332Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

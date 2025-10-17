@@ -27,14 +27,14 @@ namespace VisorDeImagenes
             girar90ALaIzquierdaToolStripMenuItem1.Click += rotarIzquierda_Click;
             copiarToolStripMenuItem.Click += copiar_Click;
 
-            // ToolStripButtons (normal / grises)
-            toolStripButton1.Click += toolStripButton1_Click; // Normal
-            toolStripButton2.Click += toolStripButton2_Click; // Grises
+            
+            toolStripButton1.Click += toolStripButton1_Click; 
+            toolStripButton2.Click += toolStripButton2_Click; 
 
-            checkBox1.Click += (s, e) => SetMode(false); // Normal
-            checkBox2.Click += (s, e) => SetMode(true);  // Escala de grises
+            checkBox1.Click += (s, e) => SetMode(false); 
+            checkBox2.Click += (s, e) => SetMode(true);  
 
-            // MenuStrip items (si existen)
+           
             normalToolStripMenuItem.Click += (s, e) => SetMode(false);
             escalaDeGrisesToolStripMenuItem.Click += (s, e) => SetMode(true);
         }
