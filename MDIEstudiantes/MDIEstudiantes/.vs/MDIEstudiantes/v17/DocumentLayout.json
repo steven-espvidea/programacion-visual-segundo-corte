@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|c:\\users\\50585\\downloads\\mdiestudiantes_project_fixed\\mdiestudiantes\\mdiestudiantes\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|solutionrelative:mdiestudiantes\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|c:\\users\\50585\\downloads\\mdiestudiantes_project_fixed\\mdiestudiantes\\mdiestudiantes\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|solutionrelative:mdiestudiantes\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|c:\\users\\50585\\downloads\\mdiestudiantes_project_fixed\\mdiestudiantes\\mdiestudiantes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|solutionrelative:mdiestudiantes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|c:\\users\\50585\\downloads\\mdiestudiantes_project_fixed\\mdiestudiantes\\mdiestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|solutionrelative:mdiestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|c:\\users\\50585\\downloads\\mdiestudiantes_project_fixed\\mdiestudiantes\\mdiestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A8E7C6-0000-4E0C-9BDB-111111111111}|MDIEstudiantes\\MDIEstudiantes.csproj|solutionrelative:mdiestudiantes\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Estudiante.cs",
+              "RelativeDocumentMoniker": "MDIEstudiantes\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Estudiante.cs",
+              "RelativeToolTip": "MDIEstudiantes\\Estudiante.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:58:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "MDIEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form1.cs",
+              "RelativeToolTip": "MDIEstudiantes\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:10:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form2.cs",
+              "RelativeDocumentMoniker": "MDIEstudiantes\\Form2.cs",
+              "ToolTip": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form2.cs",
+              "RelativeToolTip": "MDIEstudiantes\\Form2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:09:39.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form3.cs",
+              "RelativeDocumentMoniker": "MDIEstudiantes\\Form3.cs",
+              "ToolTip": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form3.cs",
+              "RelativeToolTip": "MDIEstudiantes\\Form3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T22:09:15.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form4.cs",
+              "RelativeDocumentMoniker": "MDIEstudiantes\\Form4.cs",
+              "ToolTip": "C:\\Users\\50585\\Downloads\\MDIEstudiantes_project_fixed\\MDIEstudiantes\\MDIEstudiantes\\Form4.cs",
+              "RelativeToolTip": "MDIEstudiantes\\Form4.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T05:44:51.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
